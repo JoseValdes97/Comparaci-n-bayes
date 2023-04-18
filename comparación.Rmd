@@ -1,5 +1,5 @@
 ---
-title: "TALLERES BAYES"
+title: "Ejemplo Puntajes Bayes"
 author: José Valdés
 output: html_document
 ---
